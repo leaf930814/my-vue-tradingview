@@ -1,0 +1,62 @@
+.group-wWM3zP_M- {
+  background-color: #1c2330;
+  border-color: #111217;
+}
+
+.button-13wlLwhJ-.hovered-FUo4RNOC-,
+.feature-no-touch .button-13wlLwhJ-:active,
+.feature-no-touch .button-13wlLwhJ-:hover,
+.feature-touch .button-13wlLwhJ-:active {
+  color: #357ce0;
+}
+
+.button-2ioYhFEY-.isInteractive-20uLObIc-.hovered-3perbaxJ-,
+.feature-no-touch .button-2ioYhFEY-.isInteractive-20uLObIc-:active,
+.feature-no-touch .button-2ioYhFEY-.isInteractive-20uLObIc-:hover,
+.feature-touch .button-2ioYhFEY-.isInteractive-20uLObIc-:active {
+  color: #357ce0;
+}
+
+.chart-page .chart-container {
+  border-color: #1b2331;
+  background-color: #1b2331;
+}
+
+.subGroup-1JpgB9zD->:not(:first-child):before {
+  background-color: #151b26;
+}
+
+.loading-indicator {
+  background: #1b2331 !important;
+}
+
+.button-263WXsg--.isActive-2mI1-NUL- .icon-1Y-3MM9F- {
+  background-color: rgba(183, 213, 234, 0.1);
+  border-radius: 3px;
+}
+
+.button-263WXsg-- .icon-1Y-3MM9F- {
+  color: #466d89;
+}
+
+.feature-no-touch .button-263WXsg-- .icon-1Y-3MM9F-:hover {
+  color: #fff;
+}
+
+.Kline-resolutionparent:hover,
+.group-wWM3zP_M- .indicator:hover {
+  cursor: pointer;
+}
+
+.Kline-resolutionparent:hover .customButton--jqJTfH5-,
+.Kline-resolutionparent:active .customButton--jqJTfH5-,
+.Kline-resolutionparent.cur .customButton--jqJTfH5-,
+.group-wWM3zP_M- .indicator:hover,
+.group-wWM3zP_M- .indicator:active {
+  color: #357ce0;
+}
+
+.pane-legend-title__interval,
+.pane-legend-title__details {
+  display: none;
+}
